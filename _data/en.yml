@@ -4,7 +4,7 @@ events: Events
 contact: Contact
 tellMeMore: Tell Me More
 
-activitiesSubheading: 'And you can, too!'
+activitiesSubheading: 'A new study group which is fed from a programme which Mozilla Science Labs help to facilitate which aims to encourage the sharing of information and skills between people from across Lancaster and its University!'
 activities:
   - title: Skill Sharing
     description: 'Share your favorite coding skills and tools with your friends and colleagues in friendly, no-pressure work-alongs.</p>'
