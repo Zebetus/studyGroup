@@ -1,6 +1,9 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Harry Smith
+  affiliation: Lancaster University/Mozilla
+  github: Zebetus
   interests:
     - Programming
     - Open Science
+    - Physics
+    - Learning
+  Contact Email: harry@mozilla.org.uk
